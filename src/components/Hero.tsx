@@ -25,8 +25,8 @@ export function Hero() {
           </p>
           <div className="flex justify-center space-x-4">
             <button className="bg-purple-600 text-white px-8 py-3 rounded-full hover:bg-purple-700 transition-colors flex items-center">
-              Encuentra tu Coach
-              <ArrowRight className="ml-2 h-5 w-5" />
+              Encuentra tu Coach 
+              <ArrowRight className="ml-2 h-5 w-5" href='https://create.formsly.app/0defE0' />
             </button>
             <button className="border-2 border-purple-600 text-purple-600 px-8 py-3 rounded-full hover:bg-purple-50 transition-colors">
               Saber más
